@@ -1,4 +1,4 @@
-//https://onlinejudge.org/external/118/11805.pdf
+// https://onlinejudge.org/external/118/11805.pdf
 //Date: 13/05/2021
 //Author: Muaz
 
