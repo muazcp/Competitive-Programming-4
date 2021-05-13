@@ -1,3 +1,7 @@
+//https://onlinejudge.org/external/100/10071.pdf
+//Date: 13/05/2021
+//Author: Muaz
+
 #include<bits/stdc++.h>
 using namespace std;
 
