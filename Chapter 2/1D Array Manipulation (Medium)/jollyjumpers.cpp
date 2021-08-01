@@ -1,6 +1,6 @@
 //link: https://open.kattis.com/problems/jollyjumpers
 //Date: 01/08/2021
-//Author: Muaz 
+//Author: Muaz
 
 
 #include<bits/stdc++.h>
