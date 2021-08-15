@@ -1,3 +1,7 @@
+//Link: https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4913
+//Date: 15.08.2021
+//Author: Muaz
+
 #include<bits/stdc++.h>
 using namespace std;
 
